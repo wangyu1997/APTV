@@ -19,6 +19,12 @@ https://epg.112114.xyz/huya/7911
 https://epg.112114.xyz/huya/88617
 #EXTINF:-1 tvg-logo="null" group-title="自定义", 大熊小清新
 https://epg.112114.xyz/huya/585800
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/be/c82b9e2274a54e0bbf620891500ebf_180_135.jpg?1666926882" group-title="王者荣耀", ZY-南莫
+https://epg.112114.xyz/huya/713255
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1046/6b/8754aabd18ad84217e4b20749d498c_180_135.jpg?1596565527" group-title="王者荣耀", 众乐-伟妹
+https://epg.112114.xyz/huya/146268
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/3c/eb51a25e5244047e9a2dcb80547925_180_135.jpg?1621325622" group-title="王者荣耀", 久爱-猪猪小悠
+https://epg.112114.xyz/huya/651353
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/b9/b6824c9d5593f03f5b5c4f71189023_180_135.jpg?1564815405" group-title="王者荣耀", 张大仙
 https://epg.112114.xyz/huya/688
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1084/b7/896bc815db9560eabbcb4a227f62ba_180_135.jpg?1416387967" group-title="英雄联盟", 卡尔
@@ -67,6 +73,8 @@ https://epg.112114.xyz/huya/52333
 https://epg.112114.xyz/huya/199300
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1082/64/b3bb6f0caa54e70a0391bceab9e093_180_135.jpg?1482606779" group-title="永劫无间", 狂鸟丶董小飒-90327
 https://epg.112114.xyz/huya/13579
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/69/990ecc71104fdb2521fb7b3e994554_180_135.jpg?1656926556" group-title="王者荣耀", LING-北慕
+https://epg.112114.xyz/huya/31520
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/be/1b9fe747d10d00648c73633353d2c3_180_135.jpg?1630244763" group-title="王者荣耀", 狼队小胖
 https://epg.112114.xyz/huya/24147418
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1097/09/2be017ac7938c7c1edf91daaba7670_180_135.jpg?1415905104" group-title="英雄联盟", 微竞-芜湖神
